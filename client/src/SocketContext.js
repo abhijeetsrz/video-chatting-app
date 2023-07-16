@@ -4,7 +4,7 @@ import Peer from 'simple-peer';
 
 const SocketContext = createContext();
 
-const socket = io('video-chatting-app-seven.vercel.app');
+const socket = io('https://video-chatting-app-server.onrender.com');
 
 
 const ContextProvider = ({ children }) => {
