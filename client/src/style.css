@@ -1,0 +1,12 @@
+body {
+    /* background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUEzLKGWhf-Oc2y46H9-0xSXITsgTQklZNQ&usqp=CAU); */
+    background: url(https://shorturl.at/gnptY);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
